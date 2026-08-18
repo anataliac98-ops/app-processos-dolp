@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Dashboard de RH Preditivo",
+  "description": "Painel analítico e preditivo de RH integrando Recrutamento (SLA de Vagas), Retenção (Turnover) e Engajamento (Absenteísmo) com leitura 100% client-side.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
